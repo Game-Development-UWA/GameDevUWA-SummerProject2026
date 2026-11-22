@@ -2,4 +2,7 @@
 
 github repo for the GameDevUWA Summer Project, scope to be determined
 
-Athena
+- Athena
+- caleb 
+- allan was here
+
